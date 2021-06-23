@@ -57,3 +57,8 @@ W następnym kroku podajemy adres email, hasło oraz nazwę użytkownika:
 
 Ostatnim krokiem będzie potwierdzenie adresu email, poprzez kliknięcie linku z wiadomości.
 
+![image info](images/account-verify.png)
+
+Poniżej przykład takiej wiadomości:
+
+![image info](images/email-verify.png)
