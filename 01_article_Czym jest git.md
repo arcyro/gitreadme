@@ -62,3 +62,5 @@ Ostatnim krokiem będzie potwierdzenie adresu email, poprzez kliknięcie linku z
 Poniżej przykład takiej wiadomości:
 
 ![image info](images/email-verify.png)
+
+Gratulacje właśnie prawidłowo utworzyłeś konto w serwisie GitHub.
