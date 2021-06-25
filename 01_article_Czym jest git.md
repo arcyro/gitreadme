@@ -1,3 +1,4 @@
+jakieś zmiany z innego konta
 Co to jest system kontroli wersji
 
 Systemy kontroli wersji (ang. VCS – version control system) – jest to oprogramowanie, 
